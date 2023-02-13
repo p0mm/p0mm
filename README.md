@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello friend 👋
+- 🌱 I know how to use git, it's now time to get started on github ʕ⁠´⁠•⁠ ⁠ᴥ⁠•̥⁠`⁠ʔ
+- ⚡ I am studying Computer Science at the **T**echnical **U**niversity of **M**unich
+- 🔭 I’m currently learning **C++**!
+- :ringed_planet: My first programming language was **Java** ~
+- ✨ I also have some experience with **C** (normal amount) and Python (small<sub> but growing </sub> amount)
+- 📫 I will check my mail - without fail ฅ⁠^⁠•⁠ﻌ⁠•⁠^⁠ฅ ge59gof@mytum.de
 
 <!--
 **p0mm/p0mm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
