@@ -1,9 +1,10 @@
 ### Hello friend 👋
 - 🌱 I know how to use git, it's now time to get started on github ʕ⁠´⁠•⁠ ⁠ᴥ⁠•̥⁠`⁠ʔ
 - ⚡ I am studying Computer Science at the **T**echnical **U**niversity of **M**unich
-- 🔭 I’m currently learning **C++**!
+- 🔭 I’m learning **C++**!
+- 👀 Rust is looking interesting ...
 - :ringed_planet: My first programming language was **Java** ~
-- ✨ I also have some experience with **C** (normal amount) and Python (small<sub> but growing </sub> amount)
+- ✨ I also have some experience with **C** (normal amount) and Python (small amount)
 - 📫 I will check my mail - without fail ฅ⁠^⁠•⁠ﻌ⁠•⁠^⁠ฅ ge59gof@mytum.de
 
 <!--
